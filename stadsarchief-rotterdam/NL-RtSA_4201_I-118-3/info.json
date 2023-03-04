@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 129,
+    "height" : 247
+  }, {
+    "width" : 258,
+    "height" : 494
+  }, {
+    "width" : 516,
+    "height" : 988
+  }, {
+    "width" : 1031,
+    "height" : 1975
+  }, {
+    "width" : 2061,
+    "height" : 3950
+  }, {
+    "width" : 4121,
+    "height" : 7900
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4121,
+  "@id" : "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-118-3/info.json",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 7900
+}
