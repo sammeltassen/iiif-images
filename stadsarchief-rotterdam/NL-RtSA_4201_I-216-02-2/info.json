@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 6570,
-  "@id" : "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-2/info.json",
+  "@id" : "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_I-216-02-2",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 4522
 }
