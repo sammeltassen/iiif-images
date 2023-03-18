@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 93,
+    "height" : 76
+  }, {
+    "width" : 185,
+    "height" : 151
+  }, {
+    "width" : 370,
+    "height" : 301
+  }, {
+    "width" : 739,
+    "height" : 602
+  }, {
+    "width" : 1477,
+    "height" : 1203
+  }, {
+    "width" : 2953,
+    "height" : 2405
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2953,
+  "@id" : "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_1979-2115",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2405
+}
