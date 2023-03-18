@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 207,
+    "height" : 155
+  }, {
+    "width" : 414,
+    "height" : 309
+  }, {
+    "width" : 828,
+    "height" : 618
+  }, {
+    "width" : 1655,
+    "height" : 1236
+  }, {
+    "width" : 3309,
+    "height" : 2471
+  }, {
+    "width" : 6617,
+    "height" : 4941
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 6617,
+  "@id" : "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4201_2006-886-9",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4941
+}
