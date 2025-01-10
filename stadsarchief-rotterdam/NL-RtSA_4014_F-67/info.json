@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 374,
+    "height" : 448
+  }, {
+    "width" : 748,
+    "height" : 895
+  }, {
+    "width" : 1496,
+    "height" : 1790
+  }, {
+    "width" : 2991,
+    "height" : 3580
+  }, {
+    "width" : 5981,
+    "height" : 7159
+  }, {
+    "width" : 11962,
+    "height" : 14317
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 11962,
+  "@id" : "https://sammeltassen.nl/iiif-images/stadsarchief-rotterdam/NL-RtSA_4014_F-67",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 14317
+}
